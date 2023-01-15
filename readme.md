@@ -13,8 +13,8 @@
     </a>
 
   <br/>
-    <a href="https://github.com/xsrazy"><img alt="Xsrazy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xsrazy&show_icons=true&theme=radical" /></a>
-  <a href="https://github.com/xsrazy"><img alt="Xsrazy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsrazy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/xsrazy"><img alt="Xsrazy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xsrazy&show_icons=true&theme=highcontrast" /></a>
+  <a href="https://github.com/xsrazy"><img alt="Xsrazy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokonior&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
