@@ -39,4 +39,4 @@
 <a href="https://github.com/xsrazy"><img src="https://komarev.com/ghpvc/?username=xsrazy"></a>
 <a href="https://github.com/xsrazy?tab=followers"><img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=social" alt="GitHub Badge"></a>
                    
-## 🌐  [Website Portofolio](https://xsrazy.my.id/)
+## 🌐  [Website Portofolio](https://xsrazy.web.id/)
