@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=I+Don't+Give+a+Fuck+About+Anyone!;I+Don't+Give+a+Fuck+About+Anyone!;I+Don't+Give+a+Fuck+About+Anyone!;"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=i+don't+give+a+fuck+about+anyone!;"></a>
 </p>
 
 
