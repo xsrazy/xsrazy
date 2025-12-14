@@ -13,11 +13,11 @@
 
 <p align="center">
     <a href="https://github.com/xsrazy">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Xsrazy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xsrazy&theme=radical&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&properties=background"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Xsrazy's streak" src="https://streak-stats.demolab.com?user=xsrazy&theme=radical&mode=weekly"/>
     </a>
 
   <br/>
-    <a href="https://github.com/xsrazy"><img alt="Xsrazy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sindresorhus&show_icons=true&theme=highcontrast" /></a>
+    <a href="https://github.com/xsrazy"><img alt="Xsrazy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xsrazy&show_icons=true&theme=highcontrast" /></a>
   <a href="https://github.com/xsrazy"><img alt="Xsrazy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindresorhus&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -40,3 +40,4 @@
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xsrazy) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://paypal.me/xsrazy) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/Xsrazy) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/xsrazy) 
+
