@@ -22,7 +22,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/xsrazy"><img alt="Xsrazy's Activity Graph" src="https://activity-graph.xsrazy.web.id/graph?username=xsrazy&theme=tokyo-night" /></a>
+<a href="https://github.com/xsrazy"><img alt="Xsrazy's Activity Graph" src="https://github-readme-stats.xsrazy.web.id/graph?username=xsrazy&theme=tokyo-night" /></a>
 
 ## 🏆 My Trophies 
 <p align="center">
