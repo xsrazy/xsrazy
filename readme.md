@@ -1,24 +1,24 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Rahmatul%20Usra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descAlignY=58&descSize=18" alt="Rahmatul Usra">
 
-<p align="center">Web developer from Indonesia. Open source, zero-dependency, serverless.</p>
+<p align="center">Web developer from Indonesia.<br>Open source, zero-dependency, serverless.</p>
 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,bash,nodejs,nextjs,react,tailwind,vercel,cloudflare,supabase,git,markdown,figma&theme=dark" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,nodejs,nextjs,react,tailwind,vercel,cloudflare,supabase,git,markdown&theme=dark" alt="Tech stack">
 </p>
 
 ## 🚀 Featured
 
 | Project | What it is | Live |
 |:---:|:---:|:---:|
-| [Cektag](https://github.com/xsrazy/cektag) | Phone number tag lookup. | [CLICK HERE](https://cektag.xsrazy.web.id) |
-| [Discord-AI-Reply-Bot](https://github.com/xsrazy/discord-ai-reply-bot) | Discord auto-reply, Gemini AI. | [CLICK HERE](https://github.com/xsrazy/discord-ai-reply-bot) |
-| [GitHub-Readme-Stats](https://github.com/xsrazy/github-readme-stats) | README stats card suite. | [CLICK HERE](https://github-readme-stats.xsrazy.web.id) |
-| [Linkpass](https://github.com/xsrazy/linkpass) | Link-in-bio as a digital pass. | [CLICK HERE](https://linkpass.xsrazy.web.id) |
 | [Nikah](https://github.com/xsrazy/Nikah) | Digital wedding invitation. | [CLICK HERE](https://nikah.xsrazy.web.id) |
-| [NikahFix](https://github.com/xsrazy/NikahFix) | Netflix-style wedding invitation. | [CLICK HERE](https://nikahfix.xsrazy.web.id) |
+| [Cektag](https://github.com/xsrazy/cektag) | Phone number tag lookup. | [CLICK HERE](https://cektag.xsrazy.web.id) |
 | [TikBulk](https://github.com/xsrazy/tikbulk.xsrazy.web.id) | Bulk TikTok downloader site. | [CLICK HERE](https://tikbulk.xsrazy.web.id) |
+| [Linkpass](https://github.com/xsrazy/linkpass) | Link-in-bio as a digital pass. | [CLICK HERE](https://linkpass.xsrazy.web.id) |
+| [NikahFix](https://github.com/xsrazy/NikahFix) | Netflix-style wedding invitation. | [CLICK HERE](https://nikahfix.xsrazy.web.id) |
+| [GitHub-Readme-Stats](https://github.com/xsrazy/github-readme-stats) | README stats card suite. | [CLICK HERE](https://github-readme-stats.xsrazy.web.id) |
+| [Discord-AI-Reply-Bot](https://github.com/xsrazy/discord-ai-reply-bot) | Discord auto-reply, Gemini AI. | [CLICK HERE](https://github.com/xsrazy/discord-ai-reply-bot) |
 | [TikTok-Batch-Downloader](https://github.com/xsrazy/TikTok-Batch-Downloader) | CLI TikTok bulk downloader. | [CLICK HERE](https://github.com/xsrazy/TikTok-Batch-Downloader) |
 
 ## 📊 Activity
