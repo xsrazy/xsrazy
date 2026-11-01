@@ -2,13 +2,13 @@
 
 <p align="center">Web developer from Indonesia.<br>Open source, zero-dependency, serverless.</p>
 
-## 🛠️ Stack
+<h2 align="center">🛠️ Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,nodejs,nextjs,react,tailwind,vercel,cloudflare,supabase,git,markdown&theme=dark" alt="Tech stack">
 </p>
 
-## 🚀 Featured
+<h2 align="center">🚀 Featured</h2>
 
 | Project | What it is | Live |
 |:---:|:---:|:---:|
@@ -21,7 +21,7 @@
 | [Discord-AI-Reply-Bot](https://github.com/xsrazy/discord-ai-reply-bot) | Discord auto-reply, Gemini AI. | [CLICK HERE](https://github.com/xsrazy/discord-ai-reply-bot) |
 | [TikTok-Batch-Downloader](https://github.com/xsrazy/TikTok-Batch-Downloader) | CLI TikTok bulk downloader. | [CLICK HERE](https://github.com/xsrazy/TikTok-Batch-Downloader) |
 
-## 📊 Activity
+<h2 align="center">📊 Activity</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsrazy&theme=tokyonight" alt="Profile details">
@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.xsrazy.web.id/graph?username=xsrazy&theme=tokyo-night&days=30" alt="Activity graph">
 </p>
 
-## 🤝 Connect
+<h2 align="center">🤝 Connect</h2>
 
 <p align="center">
   <a href="mailto:github@xsrazy.web.id"><img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email"></a>&nbsp;&nbsp;
