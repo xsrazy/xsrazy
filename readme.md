@@ -28,8 +28,7 @@
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsrazy&theme=tokyonight" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xsrazy&theme=tokyonight" alt="Repos per language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsrazy&theme=tokyonight" alt="Stats">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xsrazy&theme=tokyonight" alt="Repos per language">
 </p>
 
 <p align="center">
