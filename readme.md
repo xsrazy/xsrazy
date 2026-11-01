@@ -40,7 +40,8 @@
 
 <p align="center">
   <a href="mailto:github@xsrazy.web.id"><img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email"></a>&nbsp;&nbsp;
-  <a href="https://t.me/xsrazy"><img height="32" src="https://cdn.simpleicons.org/telegram/26A5E8" alt="Telegram"></a>
+  <a href="https://t.me/xsrazy"><img height="32" src="https://cdn.simpleicons.org/telegram/26A5E8" alt="Telegram"></a>&nbsp;&nbsp;
+  <a href="https://facebook.com/xsrazy"><img height="32" src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook"></a>
 </p>
 
 <p align="center">
