@@ -24,12 +24,12 @@
 <h2 align="center">📊 Activity</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsrazy&theme=tokyonight" alt="Profile details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsrazy&theme=tokyonight" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xsrazy&theme=tokyonight" alt="Repos per language">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsrazy&theme=tokyonight" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xsrazy&theme=tokyonight" alt="Repos per language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsrazy&theme=tokyonight" alt="Profile details">
 </p>
 
 <p align="center">
