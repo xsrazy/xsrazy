@@ -10,6 +10,8 @@
 
 ## 🚀 Featured
 
+<div align="center">
+
 | Project | What it is | Live |
 |:---:|:---:|:---:|
 | [Nikah](https://github.com/xsrazy/Nikah) | Digital wedding invitation. | [CLICK HERE](https://nikah.xsrazy.web.id) |
@@ -20,6 +22,8 @@
 | [GitHub-Readme-Stats](https://github.com/xsrazy/github-readme-stats) | README stats card suite. | [CLICK HERE](https://github-readme-stats.xsrazy.web.id) |
 | [Discord-AI-Reply-Bot](https://github.com/xsrazy/discord-ai-reply-bot) | Discord auto-reply, Gemini AI. | [CLICK HERE](https://github.com/xsrazy/discord-ai-reply-bot) |
 | [TikTok-Batch-Downloader](https://github.com/xsrazy/TikTok-Batch-Downloader) | CLI TikTok bulk downloader. | [CLICK HERE](https://github.com/xsrazy/TikTok-Batch-Downloader) |
+
+</div>
 
 ## 📊 Activity
 
