@@ -33,15 +33,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.xsrazy.web.id/graph?username=xsrazy&theme=tokyo-night&days=365" alt="Activity graph">
+  <img src="https://github-readme-stats.xsrazy.web.id/graph?username=xsrazy&theme=tokyo-night&days=30" alt="Activity graph">
 </p>
 
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://instagram.com/xsrazy"><img height="32" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram"></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/c/xsrazy"><img height="32" src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube"></a>&nbsp;&nbsp;
-  <a href="https://facebook.com/xsrazy"><img height="32" src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook"></a>
+  <a href="mailto:github@xsrazy.web.id"><img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://t.me/xsrazy"><img height="32" src="https://cdn.simpleicons.org/telegram/26A5E8" alt="Telegram"></a>
 </p>
 
 <p align="center">
