@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.xsrazy.web.id/graph?username=xsrazy&theme=tokyo-night&days=30" alt="Activity graph">
+  <img width="700" src="https://github-readme-stats.xsrazy.web.id/graph?username=xsrazy&theme=tokyo-night&days=30" alt="Activity graph">
 </p>
 
 ## 🤝 Connect
