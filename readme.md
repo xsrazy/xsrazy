@@ -12,16 +12,16 @@
 
 <div align="center">
 
-| Project | What it is | Live |
-|:---:|:---:|:---:|
-| [Nikah](https://github.com/xsrazy/Nikah) | Digital wedding invitation. | [CLICK HERE](https://nikah.xsrazy.web.id) |
-| [Cektag](https://github.com/xsrazy/cektag) | Phone number tag lookup. | [CLICK HERE](https://cektag.xsrazy.web.id) |
-| [TikBulk](https://github.com/xsrazy/tikbulk.xsrazy.web.id) | Bulk TikTok downloader site. | [CLICK HERE](https://tikbulk.xsrazy.web.id) |
-| [Linkpass](https://github.com/xsrazy/linkpass) | Link-in-bio as a digital pass. | [CLICK HERE](https://linkpass.xsrazy.web.id) |
-| [NikahFix](https://github.com/xsrazy/NikahFix) | Netflix-style wedding invitation. | [CLICK HERE](https://nikahfix.xsrazy.web.id) |
-| [GitHub-Readme-Stats](https://github.com/xsrazy/github-readme-stats) | README stats card suite. | [CLICK HERE](https://github-readme-stats.xsrazy.web.id) |
-| [Discord-AI-Reply-Bot](https://github.com/xsrazy/discord-ai-reply-bot) | Discord auto-reply, Gemini AI. | [CLICK HERE](https://github.com/xsrazy/discord-ai-reply-bot) |
-| [TikTok-Batch-Downloader](https://github.com/xsrazy/TikTok-Batch-Downloader) | CLI TikTok bulk downloader. | [CLICK HERE](https://github.com/xsrazy/TikTok-Batch-Downloader) |
+| Project | Tech | What it is | Live |
+|:---:|:---:|:---:|:---:|
+| 💍 [**Nikah**](https://github.com/xsrazy/Nikah) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Digital wedding invitation. | [CLICK HERE](https://nikah.xsrazy.web.id) |
+| 🔍 [**Cektag**](https://github.com/xsrazy/cektag) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | Phone number tag lookup. | [CLICK HERE](https://cektag.xsrazy.web.id) |
+| ⬇️ [**TikBulk**](https://github.com/xsrazy/tikbulk.xsrazy.web.id) | ![Docs](https://img.shields.io/badge/Docs-6B7280) | Bulk TikTok downloader site. | [CLICK HERE](https://tikbulk.xsrazy.web.id) |
+| 🔗 [**Linkpass**](https://github.com/xsrazy/linkpass) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | Link-in-bio as a digital pass. | [CLICK HERE](https://linkpass.xsrazy.web.id) |
+| 🎬 [**NikahFix**](https://github.com/xsrazy/NikahFix) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Netflix-style wedding invitation. | [CLICK HERE](https://nikahfix.xsrazy.web.id) |
+| 📊 [**GitHub-Readme-Stats**](https://github.com/xsrazy/github-readme-stats) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | README stats card suite. | [CLICK HERE](https://github-readme-stats.xsrazy.web.id) |
+| 🤖 [**Discord-AI-Reply-Bot**](https://github.com/xsrazy/discord-ai-reply-bot) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Discord auto-reply, Gemini AI. | [CLICK HERE](https://github.com/xsrazy/discord-ai-reply-bot) |
+| 📥 [**TikTok-Batch-Downloader**](https://github.com/xsrazy/TikTok-Batch-Downloader) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | CLI TikTok bulk downloader. | [CLICK HERE](https://github.com/xsrazy/TikTok-Batch-Downloader) |
 
 </div>
 
